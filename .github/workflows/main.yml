@@ -16,7 +16,7 @@ jobs:
       - name: Generate GitHub Snake
         uses: Platane/snk@master
         with:
-          github_user_name: <your-username>
+          github_user_name: ShivanshCharak
           outputs: github-snake.svg
           outputs_dark: github-snake-dark.svg
 
